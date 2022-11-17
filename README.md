@@ -1,16 +1,19 @@
 # desktop_app
 
-A new Flutter project.
+A new Flutter desktop project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point in my desktop journey
 
-A few resources to get you started if this is your first Flutter project:
+It is a simple text app, with a nice and simplistic UI design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Functionality
+- Write texts
+- Save texts in local storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Coming Soon
+- View all saved texts
+- Edit text files
+- Manage files 
+- Support other file types like Pdf, Doc etc as it currently has only support for .txt files.
