@@ -1,3 +1,8 @@
+- [desktop_app](#desktop_app)
+  - [Getting Started](#getting-started)
+      - [Functionality](#functionality)
+      - [Coming Soon](#coming-soon)
+  
 # desktop_app
 
 A new Flutter desktop project.
